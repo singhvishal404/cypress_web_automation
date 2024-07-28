@@ -1,0 +1,7 @@
+import './post_campaign.cy'
+import './post_campaign_mms.cy'
+import './post_quick sms.cy'
+import './post_replysms.cy'
+import './post_send_quick_mms.cy'
+import './post_vonage_reply.cy'
+import './POST_replymms.cy'

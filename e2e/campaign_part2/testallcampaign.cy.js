@@ -1,0 +1,8 @@
+import './campaign with template with personalization.cy'
+import './campaign without template.cy'
+import './reply for campaign.cy'
+import './run_campaign_with_business _name.cy'
+import './optoutLink.cy'
+import './scheduled campaign.cy'
+import './sharedNumberCampaign.cy'
+import './shortUrlClicks.cy'
